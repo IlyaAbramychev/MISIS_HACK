@@ -1,0 +1,181 @@
+{
+    "resume": {
+        "resume_id": "7c3d8723-0d71-4b1e-bb61-fec00fc18f34",
+        "first_name": "Алексей",
+        "last_name": "Тугаенко",
+        "middle_name": "",
+        "birth_date": "",
+        "birth_date_year_only": false,
+        "country": "Товароведенье",
+        "city": "Русский",
+        "about": "Для меня важно добираться до сути решаемых задач и доводить их до конца\nЦеню уважение среди сотрудников, доброжелательную атмосферу\nМне нравятся задачи, в которых нужно искать нестандартные решения\nУмею работать в команде, оказываю позитивное влияние на коллектив\nЛюблю познавать новое, экспериментировать\nСреди главного в моей жизни — саморазвитие и работа над собой",
+        "key_skills": "Языки: Java, SQL Фреймворки: JavaSE, Spring / Core / JDBC / MVC / DATA, Jackson, JAXB Технологии: JSP, JDBC, Servlet, JPA Веб сервер: Apache Tomcat Базы данных: PostgreSQL, HSQLDB Тестирование: Junit, Assertj Окружение: Git, Maven, Intellij IDEA, Emacs, Linux Проекты 2021 «Подсчёт калорий» (в разработке) Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API. Реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA Реализация и тестирование REST и AJAX контроллеров Реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins Собственная доработка проекта 2019-2020 «Java learn» Решил полный комплект задач для онлайн курса JavaRush Более 1200 решенных практических задач 20 выполненных мини-проектов",
+        "salary_expectations_amount": "",
+        "salary_expectations_currency": "",
+        "photo_path": "",
+        "gender": "",
+        "resume_name": "",
+        "source_link": "",
+        "contactItems": [
+            {
+                "resume_contact_item_id": "fc0da2af-1476-475b-a467-79d2aea8d1b4",
+                "value": "+7 (096) 263 7111",
+                "comment": "",
+                "contact_type": "phone"
+            },
+            {
+                "resume_contact_item_id": "5b7f6a79-c319-4db5-885f-65a0dfb2d710",
+                "value": "",
+                "comment": "",
+                "contact_type": "link"
+            },
+            {
+                "resume_contact_item_id": "5c1e2320-4052-4dde-808f-71bde89169d5",
+                "value": "e-mail: aaatugaenko@gmail.com",
+                "comment": "",
+                "contact_type": "email"
+            },
+            {
+                "resume_contact_item_id": "7485817e-99e6-456f-8cbf-c0a74b108e2b",
+                "value": "linkedin.com/in/aaatugaenko",
+                "comment": "",
+                "contact_type": "link"
+            },
+            {
+                "resume_contact_item_id": "1899b800-e22f-494c-a4c6-6ba1fc233193",
+                "value": "github.com/aaatug",
+                "comment": "",
+                "contact_type": "link"
+            },
+            {
+                "resume_contact_item_id": "f8cc1db2-5c58-4ddd-b403-683717bd8f0e",
+                "value": "2019-2020",
+                "comment": "",
+                "contact_type": "phone"
+            },
+            {
+                "resume_contact_item_id": "52ec98af-cf54-48ad-8d40-6f42a15a274e",
+                "value": "2016 - 2020 -",
+                "comment": "",
+                "contact_type": "phone"
+            }
+        ],
+        "educationItems": [
+            {
+                "resume_education_item_id": "a350b126-40a5-4393-aa00-321db6b1467b",
+                "year": "",
+                "organization": "",
+                "faculty": "",
+                "specialty": "",
+                "result": "",
+                "education_type": "",
+                "education_level": ""
+            }
+        ],
+        "experienceItems": [
+            {
+                "resume_experience_item_id": "6ee6763e-d683-40df-837d-93b708bb4d26",
+                "starts": "",
+                "ends": "",
+                "employer": "",
+                "city": "",
+                "url": "",
+                "position": "",
+                "description": "2016 - 2020 - Ведущий инженер\nКоммунальное предприятие «Житло-сервис» (около 500 сотрудников).\n\nОбеспечивал бесперебойную работу теплового хозяйства предприятия, в которое входило более 100 жилых домов и 6 газовых котелен\nРуководил командой из 4 инженеров\nОбучал сотрудников эффективным приемам работы с ПК\n\nДостижения\nВыполнил и автоматизировал расчёт технико-экономических показателей затрат ресурсов на технологические потребности котелен для формирования тарифов. Теперь каждый последующий перерасчёт выполняется в десятки раз быстрее\n\nАвтоматизировал процесс распределения тепловой энергии в жилых домах и нежилых помещениях, тем самым повысив эффективность работы инженерной службы и снизив издержки для предприятия\n\nУспешно реализовал проект установки модулей телеметрии в газовых котельных, значительно снизив риски получения финансовых издержек при выходе из строя комплексов учёта природного газа\n\nПриобретённые опыт и",
+                "order": ""
+            }
+        ],
+        "languageItems": [
+            {
+                "resume_language_item_id": "f87b07b0-ea9c-4901-ac83-83ae3d56fa30",
+                "language": "",
+                "language_level": "Java, SQL"
+            },
+            {
+                "resume_language_item_id": "e28e06c1-801f-4fb6-b1fe-b81f0808b2c1",
+                "language": "Фреймворки",
+                "language_level": "JavaSE, Spring / Core / JDBC / MVC / DATA, Jackson, JAXB"
+            },
+            {
+                "resume_language_item_id": "036623fb-b5ed-443e-b137-a3ea38ca2251",
+                "language": "Технологии",
+                "language_level": "JSP, JDBC, Servlet, JPA"
+            },
+            {
+                "resume_language_item_id": "7ed267d7-9ee8-431d-87e8-f7c6fc48f7c4",
+                "language": "Веб сервер",
+                "language_level": "Apache Tomcat"
+            },
+            {
+                "resume_language_item_id": "01c04279-151e-419f-81a1-f3eca627f856",
+                "language": "Базы данных",
+                "language_level": "PostgreSQL, HSQLDB"
+            },
+            {
+                "resume_language_item_id": "d11d725c-76db-4769-ac21-690e87c6d6f1",
+                "language": "Тестирование",
+                "language_level": "Junit, Assertj"
+            },
+            {
+                "resume_language_item_id": "3c13da44-c5a2-4bc6-b79d-81ffae38cd53",
+                "language": "Окружение",
+                "language_level": "Git, Maven, Intellij IDEA, Emacs, Linux"
+            },
+            {
+                "resume_language_item_id": "900acf4c-c372-4dc4-a46a-0ace71731646",
+                "language": "Проекты",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "610c591f-66c0-49be-bcbc-a7e1ceb840b7",
+                "language": "2021 «Подсчёт калорий» (в разработке)",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "6ed08888-3a3d-40f6-88f7-021845440e0d",
+                "language": "Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API.",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "90d47de2-335c-4e7c-821b-e1e4865d6b53",
+                "language": "Реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "aab552c8-d765-4dcc-8b08-6d3b81ed2443",
+                "language": "Реализация и тестирование REST и AJAX контроллеров",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "f8dbb667-8c54-40b1-83ee-7c78f67d3df8",
+                "language": "Реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "8c450753-c084-404e-bd9d-b95cdd843957",
+                "language": "Собственная доработка проекта",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "5ccf36a3-2c55-4a6d-a6c5-d5caa3b524d9",
+                "language": "2019-2020 «Java learn»",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "298a9c39-3497-4039-8799-de532377f8e0",
+                "language": "Решил полный комплект задач для онлайн курса JavaRush",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "5987c714-7399-4468-b3e3-a4cb39172f43",
+                "language": "Более 1200 решенных практических задач",
+                "language_level": ""
+            },
+            {
+                "resume_language_item_id": "02c89a29-cd3e-49ef-96fb-f193b7901ad2",
+                "language": "20 выполненных мини-проектов",
+                "language_level": ""
+            }
+        ]
+    }
+}
