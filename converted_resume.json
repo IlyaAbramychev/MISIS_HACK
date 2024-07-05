@@ -1,6 +1,6 @@
 {
     "resume": {
-        "resume_id": "7c3d8723-0d71-4b1e-bb61-fec00fc18f34",
+        "resume_id": "20d247b4-bb12-4391-8739-84401a04fa69",
         "first_name": "Алексей",
         "last_name": "Тугаенко",
         "middle_name": "",
@@ -18,43 +18,43 @@
         "source_link": "",
         "contactItems": [
             {
-                "resume_contact_item_id": "fc0da2af-1476-475b-a467-79d2aea8d1b4",
+                "resume_contact_item_id": "e32cd013-895d-4809-aa09-4040d2c06ea1",
                 "value": "+7 (096) 263 7111",
                 "comment": "",
                 "contact_type": "phone"
             },
             {
-                "resume_contact_item_id": "5b7f6a79-c319-4db5-885f-65a0dfb2d710",
+                "resume_contact_item_id": "9a8b3377-fb00-4f73-abf3-fc7ccf6ca933",
                 "value": "",
                 "comment": "",
                 "contact_type": "link"
             },
             {
-                "resume_contact_item_id": "5c1e2320-4052-4dde-808f-71bde89169d5",
+                "resume_contact_item_id": "d5b8b634-71b6-4fed-b51e-df82c4277fac",
                 "value": "e-mail: aaatugaenko@gmail.com",
                 "comment": "",
                 "contact_type": "email"
             },
             {
-                "resume_contact_item_id": "7485817e-99e6-456f-8cbf-c0a74b108e2b",
+                "resume_contact_item_id": "bcbee922-e319-4e79-b5f8-e95620318aba",
                 "value": "linkedin.com/in/aaatugaenko",
                 "comment": "",
                 "contact_type": "link"
             },
             {
-                "resume_contact_item_id": "1899b800-e22f-494c-a4c6-6ba1fc233193",
+                "resume_contact_item_id": "ef024016-6f09-46b0-bf08-8f69e283f143",
                 "value": "github.com/aaatug",
                 "comment": "",
                 "contact_type": "link"
             },
             {
-                "resume_contact_item_id": "f8cc1db2-5c58-4ddd-b403-683717bd8f0e",
+                "resume_contact_item_id": "0871f038-40fc-4f15-b261-cebee8d84e0f",
                 "value": "2019-2020",
                 "comment": "",
                 "contact_type": "phone"
             },
             {
-                "resume_contact_item_id": "52ec98af-cf54-48ad-8d40-6f42a15a274e",
+                "resume_contact_item_id": "71c93acd-0813-424f-b4ac-b3bc125c83a4",
                 "value": "2016 - 2020 -",
                 "comment": "",
                 "contact_type": "phone"
@@ -62,7 +62,7 @@
         ],
         "educationItems": [
             {
-                "resume_education_item_id": "a350b126-40a5-4393-aa00-321db6b1467b",
+                "resume_education_item_id": "2d42f83d-78c1-436d-b017-5103ad343495",
                 "year": "",
                 "organization": "",
                 "faculty": "",
@@ -74,7 +74,7 @@
         ],
         "experienceItems": [
             {
-                "resume_experience_item_id": "6ee6763e-d683-40df-837d-93b708bb4d26",
+                "resume_experience_item_id": "58f17eba-7894-43e1-ae52-400b9dfb9ea5",
                 "starts": "",
                 "ends": "",
                 "employer": "",
@@ -87,92 +87,92 @@
         ],
         "languageItems": [
             {
-                "resume_language_item_id": "f87b07b0-ea9c-4901-ac83-83ae3d56fa30",
+                "resume_language_item_id": "edbe1284-d628-4870-93f7-1c506bce5f73",
                 "language": "",
                 "language_level": "Java, SQL"
             },
             {
-                "resume_language_item_id": "e28e06c1-801f-4fb6-b1fe-b81f0808b2c1",
+                "resume_language_item_id": "65428ffe-0ccc-4039-9166-fd86dc51e707",
                 "language": "Фреймворки",
                 "language_level": "JavaSE, Spring / Core / JDBC / MVC / DATA, Jackson, JAXB"
             },
             {
-                "resume_language_item_id": "036623fb-b5ed-443e-b137-a3ea38ca2251",
+                "resume_language_item_id": "1f98768d-120d-45e4-9d2d-7d2f3e6bb837",
                 "language": "Технологии",
                 "language_level": "JSP, JDBC, Servlet, JPA"
             },
             {
-                "resume_language_item_id": "7ed267d7-9ee8-431d-87e8-f7c6fc48f7c4",
+                "resume_language_item_id": "8b96caf0-0be7-432a-9d42-01396ca58634",
                 "language": "Веб сервер",
                 "language_level": "Apache Tomcat"
             },
             {
-                "resume_language_item_id": "01c04279-151e-419f-81a1-f3eca627f856",
+                "resume_language_item_id": "0f53054c-0bd9-457a-b4d9-5fae2b0fe88f",
                 "language": "Базы данных",
                 "language_level": "PostgreSQL, HSQLDB"
             },
             {
-                "resume_language_item_id": "d11d725c-76db-4769-ac21-690e87c6d6f1",
+                "resume_language_item_id": "d628db90-4eba-4ba0-b534-7800f6a38ac2",
                 "language": "Тестирование",
                 "language_level": "Junit, Assertj"
             },
             {
-                "resume_language_item_id": "3c13da44-c5a2-4bc6-b79d-81ffae38cd53",
+                "resume_language_item_id": "5f94d960-9833-48cf-91f3-2f607a20fc26",
                 "language": "Окружение",
                 "language_level": "Git, Maven, Intellij IDEA, Emacs, Linux"
             },
             {
-                "resume_language_item_id": "900acf4c-c372-4dc4-a46a-0ace71731646",
+                "resume_language_item_id": "288f01ba-47d6-49fb-9b63-84e1ab8bd4ca",
                 "language": "Проекты",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "610c591f-66c0-49be-bcbc-a7e1ceb840b7",
+                "resume_language_item_id": "c156f649-9950-4b74-a6bf-b0d8d6e1d384",
                 "language": "2021 «Подсчёт калорий» (в разработке)",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "6ed08888-3a3d-40f6-88f7-021845440e0d",
+                "resume_language_item_id": "aa7ef242-08e1-4c3f-94b2-b85909a72493",
                 "language": "Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API.",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "90d47de2-335c-4e7c-821b-e1e4865d6b53",
+                "resume_language_item_id": "9cb138c9-5065-446c-9794-c1e1a26a91aa",
                 "language": "Реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "aab552c8-d765-4dcc-8b08-6d3b81ed2443",
+                "resume_language_item_id": "41441b09-3dae-47ad-93da-a8549e305cb8",
                 "language": "Реализация и тестирование REST и AJAX контроллеров",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "f8dbb667-8c54-40b1-83ee-7c78f67d3df8",
+                "resume_language_item_id": "a7d1a086-2917-4917-a016-9787eda9cdfe",
                 "language": "Реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "8c450753-c084-404e-bd9d-b95cdd843957",
+                "resume_language_item_id": "43a110aa-024c-4b4c-ada8-f923371cded6",
                 "language": "Собственная доработка проекта",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "5ccf36a3-2c55-4a6d-a6c5-d5caa3b524d9",
+                "resume_language_item_id": "2bd5010f-6105-43f5-83c1-aee3b196c6fc",
                 "language": "2019-2020 «Java learn»",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "298a9c39-3497-4039-8799-de532377f8e0",
+                "resume_language_item_id": "5c77bff2-887e-468d-b9cb-764a0ece1e6f",
                 "language": "Решил полный комплект задач для онлайн курса JavaRush",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "5987c714-7399-4468-b3e3-a4cb39172f43",
+                "resume_language_item_id": "6691e23b-cf78-4944-a8ef-c694a8dc7c08",
                 "language": "Более 1200 решенных практических задач",
                 "language_level": ""
             },
             {
-                "resume_language_item_id": "02c89a29-cd3e-49ef-96fb-f193b7901ad2",
+                "resume_language_item_id": "3b7e195e-c397-4ca1-9b66-9eac6117f46a",
                 "language": "20 выполненных мини-проектов",
                 "language_level": ""
             }
